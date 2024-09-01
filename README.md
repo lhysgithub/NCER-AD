@@ -8,8 +8,8 @@ Source code for the paper "NCER-AD: Noise-robust Clustering-enhanced Reconstruct
 
 ### The overview of NCER-AD
 
-![](.\png\ncerad_ov.png "")
+![](./ncerad_ov.png "")
 
 ### Main Result
 
-![](.\png\ncerad_res.png "")
+![](./ncerad_res.png "")
